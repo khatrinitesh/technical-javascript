@@ -363,13 +363,13 @@
 //   console.log(student)
 
 // delete operator 
-const person = {
-    firstName: "Matilda",
-    age: 27,
-    hobby: "knitting",
-    goal: "learning JavaScript"
-}
-delete person.goal 
+// const person = {
+//     firstName: "Matilda",
+//     age: 27,
+//     hobby: "knitting",
+//     goal: "learning JavaScript"
+// }
+// delete person.goal 
 // console.log(person)
 
 
